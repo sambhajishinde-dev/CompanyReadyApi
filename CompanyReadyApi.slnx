@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CompanyReadyApi.Tests/CompanyReadyApi.Tests.csproj" Id="771b4c4f-4b47-41f3-bb03-92e2e89c3ade" />
+  <Project Path="CompanyReadyApi/CompanyReadyApi.csproj" />
+</Solution>

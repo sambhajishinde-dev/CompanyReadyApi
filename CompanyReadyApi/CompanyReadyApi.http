@@ -1,0 +1,6 @@
+@CompanyReadyApi_HostAddress = http://localhost:5025
+
+GET {{CompanyReadyApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
